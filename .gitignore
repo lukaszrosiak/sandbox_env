@@ -1,0 +1,19 @@
+**/work
+**/__pycache__
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+.terraform
+terraform.tfstate
+*.tfstate*
+terraform.tfvars
+.terraform.lock.hcl
+.idea
+.envrc
+**builds/*
+**/.DS_Store
+CODEOWNERS
